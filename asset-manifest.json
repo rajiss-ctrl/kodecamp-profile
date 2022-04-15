@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kodecamp-profile/static/css/main.d77bea86.chunk.css",
+    "main.js": "/kodecamp-profile/static/js/main.9e553937.chunk.js",
+    "main.js.map": "/kodecamp-profile/static/js/main.9e553937.chunk.js.map",
+    "runtime-main.js": "/kodecamp-profile/static/js/runtime-main.0a303684.js",
+    "runtime-main.js.map": "/kodecamp-profile/static/js/runtime-main.0a303684.js.map",
+    "static/js/2.b33fa738.chunk.js": "/kodecamp-profile/static/js/2.b33fa738.chunk.js",
+    "static/js/2.b33fa738.chunk.js.map": "/kodecamp-profile/static/js/2.b33fa738.chunk.js.map",
+    "index.html": "/kodecamp-profile/index.html",
+    "static/css/main.d77bea86.chunk.css.map": "/kodecamp-profile/static/css/main.d77bea86.chunk.css.map",
+    "static/js/2.b33fa738.chunk.js.LICENSE.txt": "/kodecamp-profile/static/js/2.b33fa738.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a303684.js",
+    "static/js/2.b33fa738.chunk.js",
+    "static/css/main.d77bea86.chunk.css",
+    "static/js/main.9e553937.chunk.js"
+  ]
+}
